@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jzi04094/git/purePlayTest/include/RtAudio.h
+string
+-
+vector
+-
+stdexcept
+-
+iostream
+-
+windows.h
+-
+process.h
+-
+pthread.h
+-
+sys/time.h
+-
+sstream
+-
+CoreAudio/AudioHardware.h
+-
+
+/home/jzi04094/git/purePlayTest/main.cpp
+include/RtAudio.h
+/home/jzi04094/git/purePlayTest/include/RtAudio.h
+iostream
+-
+cstdlib
+-
+

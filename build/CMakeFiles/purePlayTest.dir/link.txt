@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/purePlayTest.dir/main.cpp.o  -o purePlayTest -rdynamic -lasound -lpthread 

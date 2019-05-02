@@ -1,0 +1,3 @@
+/home/jzi04094/git/purePlayTest/build/CMakeFiles/edit_cache.dir
+/home/jzi04094/git/purePlayTest/build/CMakeFiles/rebuild_cache.dir
+/home/jzi04094/git/purePlayTest/build/CMakeFiles/purePlayTest.dir
